@@ -1,0 +1,14 @@
+img{
+    width: 30%;
+    height: 250px;
+    float:left;
+    margin: 1.66666%;
+}
+p{
+    font-family: 'Baloo Bhaina 2', cursive;
+    margin-left: 1.6666%;
+    font-size: 25px;
+    border-bottom: 3px solid #f1f1f1 ;
+    width: 30%;
+    padding: 2px;
+}
